@@ -1,7 +1,10 @@
 PBPK-QSP 
+
 Simulation SuiteAn advanced Physiologically Based Pharmacokinetic (PBPK) and Quantitative Systems Pharmacology (QSP) modeling suite. 
+
 This tool integrates a 12-state solid/dissolved ACAT gut model, Michaelis-Menten active transporter kinetics, Enterohepatic Recirculation (EHC), non-linear population scaling, and dynamic mid-simulation physiological events.
 Features Thermodynamic Solubility: 
+
 Auto-calculates exact solubility limits ($C_s$) from SMILES using RDKit's ESOL algorithm and applies Noyes-Whitney dissolution constraints.
 Active Transport & EHC: Mechanistic tracking of biliary efflux and active renal secretion using saturable $V_{max}$ and $K_m$ kinetics.
 Population & Disease Scaling: Dynamically scales organ volumes (e.g., obesity) and modifies clearances for Cirrhosis (Mild/Mod/Severe) and CKD (Stage 3/Stage 4).
