@@ -1,0 +1,5 @@
+Parent_Drug,Metabolite_Name,MW_g_mol,LogP,pKa,Type,fup,BP_Ratio,Kp_Scalar,Hepatic_CLint_uL_min_mg,Formation_Fraction,Cs_mg_L,Vmax_hep_mg_hr,Km_hep_mg_L,Vmax_ren_mg_hr,Km_ren_mg_L,SMILES
+Efavirenz,Efavirenz_Metabolite,200.0,1.5,7.4,Neutral,0.15,0.9,1.0,1.0,1.0,10000.0,20.0,5.0,10.0,2.0,
+Rosiglitazone,Rosiglitazone_Metabolite,200.0,1.5,7.4,Neutral,0.15,0.9,1.0,1.0,1.0,10000.0,20.0,5.0,10.0,2.0,
+leniolisib,leniolisib_Metabolite,200.0,1.5,7.4,Neutral,0.15,0.9,1.0,1.0,1.0,10000.0,20.0,5.0,10.0,2.0,
+acetaminophen,acetaminophen_Metabolite,200.0,1.5,7.4,Neutral,0.15,0.9,1.0,1.0,1.0,10000.0,20.0,5.0,10.0,2.0,N/A

@@ -1,0 +1,5 @@
+Drug,MW_g_mol,LogP,pKa,Type,fup,BP_Ratio,Hepatic_CLint_uL_min_mg,Kp_Scalar,kd_hr,Cs_mg_L,Vmax_hep_mg_hr,Km_hep_mg_L,Vmax_ren_mg_hr,Km_ren_mg_L,SMILES
+Efavirenz,315.68,4.07,7.4,Neutral,0.069,0.6,1.0,1.0,1.0,8.44,50.0,5.0,25.0,2.0,C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
+Rosiglitazone,357.44,2.49,7.4,Neutral,0.275,1.0,1.0,1.0,1.0,108.44,50.0,5.0,25.0,2.0,CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3
+leniolisib,450.47,2.88,7.4,Neutral,0.202,1.0,1.0,1.0,1.0,18.15,50.0,5.0,25.0,2.0,CCC(=O)N1CCC(C1)NC2=NC=NC3=C2CN(CC3)C4=CC(=C(N=C4)OC)C(F)(F)F
+acetaminophen,151.16,1.35,7.4,Neutral,0.553,1.0,1.0,1.0,1.0,1637.23,50.0,5.0,25.0,2.0,CC(=O)NC1=CC=C(C=C1)O

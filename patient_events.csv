@@ -1,0 +1,6 @@
+Time_hr,Event_Type,Value
+48,Food,High_Fat_Meal
+54,Food,Fasting
+200,DDI_Inhibitor,Started
+400,Smoking,Started
+100,DDI_Inhibitor,Stopped
