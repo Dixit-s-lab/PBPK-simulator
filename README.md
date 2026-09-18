@@ -1,6 +1,6 @@
-PBPK-QSP 
+PBPK-QSP Simulation Suite
 
-Simulation SuiteAn advanced Physiologically Based Pharmacokinetic (PBPK) and Quantitative Systems Pharmacology (QSP) modeling suite. 
+An advanced Physiologically Based Pharmacokinetic (PBPK) and Quantitative Systems Pharmacology (QSP) modeling suite. 
 
 This tool integrates a 12-state solid/dissolved ACAT gut model, Michaelis-Menten active transporter kinetics, Enterohepatic Recirculation (EHC), non-linear population scaling, and dynamic mid-simulation physiological events.
 Features Thermodynamic Solubility: 
