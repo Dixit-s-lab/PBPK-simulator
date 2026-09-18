@@ -31,6 +31,7 @@ conda activate pbpk_env
    pip install numpy pandas scipy matplotlib pubchempy openpyxl
    
 📁 Repository Structure
+
 gui1.py — The graphical user interface and primary entry point.
 
 master_controllerACAT.py — The core ODE mathematical engine, NCA analyzer, and data exporter.
