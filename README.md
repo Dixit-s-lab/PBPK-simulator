@@ -32,11 +32,17 @@ conda activate pbpk_env
    
 📁 Repository Structure
 gui1.py — The graphical user interface and primary entry point.
+
 master_controllerACAT.py — The core ODE mathematical engine, NCA analyzer, and data exporter.
+
 animatorACAT.py — The real-time Matplotlib Tkinter visualization engine for body flux and PK curves.
+
 physiology_builder.py — Handles non-linear allometric population scaling and disease state modifiers.
+
 distribution.py — Calculates tissue-to-plasma partition coefficients (Kp) via the Poulin & Theil mechanistic model.
+
 patient_events.csv — The timeline scheduler for dynamic QSP events.
+
 
 🚀 Usage & Sample CasesTo start the software, activate your environment and launch the dashboard:Bash
 python gui1.py
